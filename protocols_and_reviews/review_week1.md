@@ -2,7 +2,8 @@
 
 ## overall ideas 
 - Data Cleaning: Filter out special characters
-- Bias: Check the model for bias
+- Check the model for unintended bias:
+    - [Link](https://github.com/conversationai/unintended-ml-bias-analysis) 
 - Toxic Comment Challenge using a cross-lingual model:
     - [Link](https://medium.com/neuralspace/are-you-indulging-in-a-toxic-conversation-c67708b8895)
 - example challenge submission using lstm and cnn:
@@ -33,9 +34,9 @@ Topic-neutral: Good faith discussion can happen on controversial topics.
 - More Thoughts on Business Understanding:
     - help moderate online discussions
     - perspective API offered online for free for discussion board leaders to inlcude in their work:
-            - https://www.perspectiveapi.com/
+        - https://www.perspectiveapi.com/
     - Reasoning for using ML to detect toxicity in comments:
-            - [Link](https://www.scientificamerican.com/article/can-ai-identify-toxic-online-content/#)
+        - [Link](https://www.scientificamerican.com/article/can-ai-identify-toxic-online-content/#)
 
 
 
