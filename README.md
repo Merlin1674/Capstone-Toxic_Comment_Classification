@@ -1,4 +1,4 @@
-# Capstone-Toxic_Comment_Classification
+# Toxic Comment Classification
 Repository of our Capstone project at cgn-ds-21-3
 
 ![2845825](https://user-images.githubusercontent.com/94843155/152152295-9fd051e6-a8c0-4a1c-8e7f-546e6b155109.png)
