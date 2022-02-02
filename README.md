@@ -1,7 +1,12 @@
 # Capstone-Toxic_Comment_Classification
 Repository of our Capstone project at cgn-ds-21-3
 
-**!!! This project is still under development !!!**
+![2845825](https://user-images.githubusercontent.com/94843155/152152295-9fd051e6-a8c0-4a1c-8e7f-546e6b155109.png)
+
+
+<a href="https://www.flaticon.com/free-icons/natural-language-processing" title="natural language processing icons">Natural language processing icons created by Eucalyp - Flaticon</a>
+
+## !!! This project is still under development !!!
 
 Based on the data set of the Kaggle-Challenge "Toxic Comment Classification - Identify and classify toxic online comments" (https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview) we are doing EDA and creating a NLP-model to classify the given comments into the classes "toxic", "severe toxic", "threat", "insult", "obscene" and "identity hate". Some of the comments can have more than one label. According to the Kaggle-challenge requirements the evaluation metric shall be ROC AUC.
 
