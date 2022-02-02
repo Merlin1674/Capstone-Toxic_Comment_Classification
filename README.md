@@ -26,4 +26,4 @@ pip install -r requirements.txt
 Ksenia Gerasimovich, Katharina Neumüller, Kristin Stöcker, Daniel Guhr - participants of the data science bootcamp at neue fische from December 2021 to February 2022
 
 ## License
-CC-SA-3.0
+CC0 [license](https://creativecommons.org/publicdomain/zero/1.0/)
