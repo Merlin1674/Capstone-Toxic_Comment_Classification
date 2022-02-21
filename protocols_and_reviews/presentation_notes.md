@@ -12,17 +12,15 @@
 * Challenge nur kurz vorstellen 
 
 ## Data
-    * Idee: Wordcloud als Einsteig in das Thema
-        * Ähnlichkeit der Klassen
-    * Multi-Label Classification -> Chart Label Counts
-        * Unbalanciertheit
-    * Chart label count per comment
-    * zeigen, was für Daten wir haben - Wordcouds optional
+* Idee: Wordcloud als Einsteig in das Thema
+    * Ähnlichkeit der Klassen
+* Multi-Label Classification -> Chart Label Counts
+    * Unbalanciertheit aufzeigen
+* Chart label count per comment
 
 ## Herangehensweise
 * Schaubild
     * mit neuen Schritten (Augmentation etc.)
-
 
 ## Ergebnisse
 * Roberta
