@@ -19,3 +19,17 @@
 * Implementation of FastText
 * First tests with BERTR-Transformers, biLSTMs, AttentionLayer
 * Cleaning functions completed
+
+
+# Week 3
+* preparation of midterm-review
+* starting error analysis
+* starting Data Augmentation (synonym replacement, forward and back translation)
+* realisation of RoBERTa as an additional transformer model
+
+# Week 4
+* last optimization iteration of RoBERTa-Model
+* preparation of final talk
+* tidy up repository
+* finishing project
+* celebrating successful end of course
