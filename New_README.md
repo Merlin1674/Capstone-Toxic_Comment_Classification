@@ -22,20 +22,20 @@ pip install -r requirements.txt
 
 # Exploratory Data Analysis
 
-The data for the challenge consists of ca. 160k comments from Wikipedia that was labelled by humans in 6 different classes: toxic, severe toxic, obscene, threat, insult and identity hate. Furthermore, the data set shows a great imbalance with about 90% of comments showing no sign of toxicity and therefore belonging to none of the above mentioned classes. The get more detailed insights into the data set please refer to the [EDA-notebook](LINK). 
+The data for the challenge consists of ca. 160k comments from Wikipedia that was labelled by humans in 6 different classes: toxic, severe toxic, obscene, threat, insult and identity hate. Furthermore, the data set shows a great imbalance with about 90% of comments showing no sign of toxicity and therefore belonging to none of the above mentioned classes. The get more detailed insights into the data set please refer to the [EDA-notebook](https://github.com/Merlin1674/Capstone-Toxic_Comment_Classification/blob/dev/eda/eda.ipynb). 
 
 
 # Preprocessing
 
-To clean the data please use the [Clean Function Notebook](LINK) in the preprocessing folder. There you have the option to clean the data from all unwanted special characters, stopwords or short forms like I'm, aren't etc. In addition to that, you will find code for lemmatization and stemming.
+To clean the data please use the [Clean Function Notebook](https://github.com/Merlin1674/Capstone-Toxic_Comment_Classification/blob/dev/modeling/preprocessing/clean_func.ipynb) in the preprocessing folder. There you have the option to clean the data from all unwanted special characters, stopwords or short forms like I'm, aren't etc. In addition to that, you will find code for lemmatization and stemming.
 
 # Data Augmentation
 
-In order to augment the data set to tackle the imbalance between the classes, different measures were taken. In the [preprocessing](LINK) folder you will find code for e.g. Synonym Replacement and Backtranslation.
+In order to augment the data set to tackle the imbalance between the classes, different measures were taken. In the [preprocessing](https://github.com/Merlin1674/Capstone-Toxic_Comment_Classification/blob/dev/modeling/preprocessing/) folder you will find code for e.g. Synonym Replacement and Backtranslation.
 
 # Model
 
-The models folder gives an overview of the different models we trained to deal with this challenge. You will find examples for [BERT](LINK), [RoBERTa](LINK), a [BiLSTM-CNN](LINK) hybrid and a [BiLSTM with attention layers](LINK). 
+The models folder gives an overview of the different models we trained to deal with this challenge. You will find examples for [BERT](https://github.com/Merlin1674/Capstone-Toxic_Comment_Classification/blob/dev/modeling/models/bert.ipynb), [RoBERTa](https://github.com/Merlin1674/Capstone-Toxic_Comment_Classification/blob/dev/modeling/models/roberta.ipynb), a [BiLSTM-CNN](https://github.com/Merlin1674/Capstone-Toxic_Comment_Classification/blob/dev/modeling/models/bilstm_cnn.ipynb) hybrid and a [BiLSTM with attention layers](https://github.com/Merlin1674/Capstone-Toxic_Comment_Classification/blob/dev/modeling/models/bilstm_attention.ipynb). 
 
 # Results
 
@@ -49,4 +49,4 @@ This repository was created by Katharina Neumüller, Ksenia Gerasimovich, Daniel
 
 # License
 
-This repository is published under the MIT License.
+This repository is published under the [MIT License](https://github.com/Merlin1674/Capstone-Toxic_Comment_Classification/blob/dev/LICENSE).
