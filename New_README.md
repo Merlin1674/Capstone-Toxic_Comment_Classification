@@ -31,15 +31,15 @@ To clean the data please use the [Clean Function Notebook](LINK) in the preproce
 
 # Data Augmentation
 
-In order to augment the data set to tackle the imbalance between the classes, different measures were taken. In the preprocessing folder you will find code for e.g. Synonym Replacement and Backtranslation.
+In order to augment the data set to tackle the imbalance between the classes, different measures were taken. In the [preprocessing](LINK) folder you will find code for e.g. Synonym Replacement and Backtranslation.
 
 # Model
 
-The models folder gives an overview of the different models we trained to deal with this challenge. You will find examples for BERT, RoBERTa, a BiLSTM-CNN hybrid and a BiLSTM with attention layers. 
+The models folder gives an overview of the different models we trained to deal with this challenge. You will find examples for [BERT](LINK), [RoBERTa](LINK), a [BiLSTM-CNN](LINK) hybrid and a [BiLSTM with attention layers](LINK). 
 
 # Results
 
-Our best performing model is based on the transformer RoBERTa and scored with a 0.98...  the ROC-AUC metric that was asked for in the challenge. In terms of preprocessing, it turns out that simply cleaning the data without the extraction of stop words or the use of lemmatization gave us the best results. Moreover, none of the data augmentation strategies that we used resulted in a further improvement of the score. 
+Our best performing model is based on the transformer RoBERTa and scored with a 0.98482 for the ROC-AUC metric that was asked for in the challenge. In terms of preprocessing, it turns out that simply cleaning the data without the extraction of stop words or the use of lemmatization gave us the best results. Moreover, none of the data augmentation strategies that we used resulted in a further improvement of the score. 
 
 Obviously, as is true for any time limited project, there is always more that could be done. Our Error Analysis shows that more data or pseudo-labelling would help to improve the score.
 
