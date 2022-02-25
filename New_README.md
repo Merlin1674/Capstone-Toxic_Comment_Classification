@@ -1,21 +1,24 @@
 # Empower Fruitful Discissions 
-Classifying toxicity in online communication
+## Classifying toxicity in online communication
 
-LOGO
 
 This repository presents a solution to Jigsaw's [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) on kaggle.com. The project was carried out after the official deadline of the challenge in February 2022 and is therefore to be taken as out of competition. 
+
+![nf_logo](https://user-images.githubusercontent.com/47823974/155711904-1fa22fcd-e0b0-45f1-b830-c20bd3264e14.png)
+
+<a href="https://www.flaticon.com/free-icons/natural-language-processing" title="natural language processing icons">Natural language processing icons created by Eucalyp - Flaticon</a>
 
 # Environment
 
 In order to use the code set up a python environment with help of the requirements.txt file in this repository. For this you can either use make setup or the following commands:
 
-´´´python 
+``` 
 pyenv local 3.9.4
 python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
-´´´
+```
 
 # Exploratory Data Analysis
 
