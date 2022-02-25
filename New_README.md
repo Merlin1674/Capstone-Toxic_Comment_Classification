@@ -10,7 +10,7 @@ This repository presents a solution to Jigsaw's [Toxic Comment Classification Ch
 
 # Environment
 
-In order to use the code set up a python environment with help of the requirements.txt file in this repository. For this you can either use make setup or the following commands:
+In order to use the code set up a python environment with help of the requirements.txt file in this repository. For this you can use the following commands:
 
 ``` 
 pyenv local 3.9.4
